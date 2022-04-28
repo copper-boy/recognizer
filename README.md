@@ -11,7 +11,8 @@
 
 ## Использование
 
-Перейти в папку с загрузкой и ввести:<br><br> python main.py
+Перейти в папку с загрузкой и ввести: python main.py
 
 ## Проблемы возникщие при работе
-Если выдает ошибку что tesseract не установлен, добавьте C:\Program Files\Tesseract-OCR\ в PATH windows
+Если выдает ошибку что tesseract не установлен, добавьте C:\Program Files\Tesseract-OCR\ в PATH windows<br>
+Если не распознает русский переустановите tesseract с русским языком
